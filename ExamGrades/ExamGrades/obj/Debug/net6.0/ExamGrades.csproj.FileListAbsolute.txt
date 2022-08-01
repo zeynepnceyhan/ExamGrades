@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\bin\Debug\net6.0\ExamGrades.exe
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\bin\Debug\net6.0\ExamGrades.deps.json
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\bin\Debug\net6.0\ExamGrades.runtimeconfig.json
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\bin\Debug\net6.0\ExamGrades.dll
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\bin\Debug\net6.0\ExamGrades.pdb
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.dll
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\refint\ExamGrades.dll
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.pdb
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ExamGrades.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\ExamGrades\ExamGrades\obj\Debug\net6.0\ref\ExamGrades.dll
